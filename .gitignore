@@ -2,6 +2,7 @@
 models/*.keras
 models/*.h5
 models/*.ckpt
+.venv/
 
 # (optional) if you want to ignore ALL models in that folder:
 # models/
