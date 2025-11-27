@@ -1,0 +1,26 @@
+# --- Core ML Frameworks ---
+tensorflow
+
+# PyTorch stack (required by YOLOv8)
+torch==2.2.0
+torchvision==0.17.0
+torchaudio==2.2.0
+
+# --- Computer Vision ---
+opencv-python-headless==4.8.1.78
+
+# --- YOLOv8 ---
+ultralytics==8.3.230
+
+# --- Data Science ---
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# --- Streamlit App ---
+streamlit==1.30.0
+
+# --- Tunneling for Colab Deployment ---
+pyngrok==5.2.1

@@ -1,0 +1,5 @@
+filepath,true_label,pred_label,prob,true_label_str,pred_label_str
+/content/drive/MyDrive/Project-2/Aerial_Object_Classification_&_Detection/data/classification_dataset/test/bird/00083b384685315d_jpg.rf.abfd1b2cc8c681777bae66d5327bb9ea.jpg,0,1,0.8548234,bird,drone
+/content/drive/MyDrive/Project-2/Aerial_Object_Classification_&_Detection/data/classification_dataset/test/bird/12babdd12f75d084_jpg.rf.6fa412166285274262a87d4859d066be.jpg,0,1,0.92642534,bird,drone
+/content/drive/MyDrive/Project-2/Aerial_Object_Classification_&_Detection/data/classification_dataset/test/drone/pic_904_jpg.rf.35cb7678508bf522304e5d7e52a90535.jpg,1,0,0.25785857,drone,bird
+/content/drive/MyDrive/Project-2/Aerial_Object_Classification_&_Detection/data/classification_dataset/test/drone/pic_971_jpg.rf.c2cac8b790bc8d67204789d624e29e96.jpg,1,0,0.024881849,drone,bird

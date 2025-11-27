@@ -1,0 +1,8 @@
+names:
+- bird
+- drone
+nc: 2
+path: /content/drive/MyDrive/Project-2/Aerial_Object_Classification_&_Detection/data/object_detection_Dataset
+test: test/images
+train: train/images
+val: valid/images

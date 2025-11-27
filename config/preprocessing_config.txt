@@ -1,0 +1,10 @@
+Image size: 224x224
+Batch size: 32
+Augmentations:
+- rotation_range=25
+- width_shift_range=0.15
+- height_shift_range=0.15
+- zoom_range=0.2
+- shear_range=0.15
+- horizontal_flip=True
+- brightness_range=[0.7,1.3]

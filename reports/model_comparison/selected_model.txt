@@ -1,0 +1,5 @@
+chosen_model: EfficientNetB0
+chosen_model_path: ./models/efficientnetb0_best.keras
+chosen_model_weighted_f1: 0.9813953488372092
+rationale: Selected best by weighted F1: EfficientNetB0 (weighted_f1=0.9814).
+prefer_lightweight: False
