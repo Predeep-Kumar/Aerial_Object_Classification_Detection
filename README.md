@@ -13,9 +13,20 @@ The project covers all stages: EDA → Preprocessing → Training → Model Comp
 
 # 🖼️ Sample Output Images
 
-📌 Classification Example
+###  Classification Example
+<p align="center">
+  <img src="assets/output1.png" width="45%">
+  <img src="assets/output2.png" width="45%">
+  <img src="assets/output5.png" width="45%">
+</p>
 
-📌 YOLOv8 Detection Example
+###  YOLOv8 Detection Example
+
+<p align="center">
+  <img src="assets/output3.png" width="45%">
+  <img src="assets/output4.png" width="45%">
+</p>
+
 
 -------------------------------------------------------------
 
