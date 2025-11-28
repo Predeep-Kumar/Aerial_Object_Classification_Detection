@@ -101,7 +101,7 @@ Because GitHub blocks uploads larger than 100 MB.
 
 OR you can download the complete project including models:
 
-🔗 [ADD YOUR GOOGLE DRIVE LINK HERE]
+🔗 https://drive.google.com/drive/folders/1IL1tq7V8FDzarkBf0JlfoV0MR-9RPrAN?usp=sharing
 
 -------------------------------------------------------------
 
